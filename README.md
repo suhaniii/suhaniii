@@ -6,7 +6,6 @@
 - 🌱 Always Learning
 - 😄 Pronouns: She/Her
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suhaniii" alt="suhaniii" /> 
 
 ## ⚓️ Tech
 
