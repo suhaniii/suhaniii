@@ -6,6 +6,8 @@
 - 🌱 Always Learning
 - 😄 Pronouns: She/Her
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suhaniii" alt="suhaniii" /> 
+
 ## ⚓️ Tech
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50" /> &nbsp;
