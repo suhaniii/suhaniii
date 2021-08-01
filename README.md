@@ -1,6 +1,6 @@
 <h2 align="center">  Hi 👋, I am Suhani Agarwal </h2> 
 
- ## About Me
+ ## 💁🏻‍♀️ About Me
 
 - I am an Engineer & open source contributor at [Meshery](//github.com/meshery)
 - 🌱 Always Learning
