@@ -33,6 +33,4 @@
 
 <p align="center" style="margin-top:30px;">
   <a href="https://www.linkedin.com/in/suhani-agarwal/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedIn" width="30"/></a>
-    &nbsp; &nbsp; &nbsp;
-  <a href="https://www.instagram.com/suhani_ag/"><img src="https://image.flaticon.com/icons/png/512/2111/2111463.png" alt="instagram" width="30"/></a>
 </p>
